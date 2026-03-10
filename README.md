@@ -31,4 +31,4 @@ The aim of this lab was to design, configure, and test a small network, applying
 ## Author
 
 Bryan Adonye Pepple  
-Computing Student – Robert Gordon University
+Cybersecurity Student – Robert Gordon University
